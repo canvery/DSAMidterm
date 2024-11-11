@@ -18,11 +18,13 @@ React JS is a popular open source JavaScript library developed by Facebook, main
 
 Start by installing the Node.js installer for Windows. [Click here](https://nodejs.org/en) to visit the official Node.js website and download the LTS version (recommended). Once the installer is downloaded, run it and follow the instructions, making sure not to change the default settings. Click *"Next"* until the installation is complete.
 
+
 #### Step 2: Verify the installation
 
 To ensure that Node.js is installed successfully, open the command line and type:
 
 **node -v**
+
 
 #### Step 3: Install Create React App
 
@@ -34,6 +36,7 @@ The Create React App tool will be installed globally with this command. In order
 
 **create-react-app –version**
 
+
 #### Step 4: Create a new folder for your react app
 
 Type the following to create a new folder for your React application:
@@ -44,6 +47,7 @@ Change "newfolder" to the folder name you choose. Enter the folder by using:
 
 **cd newfolder**
 
+
 #### Step 5: Create a New React App
 
 Run the following command within the newly created folder:
@@ -52,11 +56,13 @@ Run the following command within the newly created folder:
 
 *This will take some time as the necessary dependencies will be installed. Note: Due to npm naming restrictions, the app name must contain only lowercase letters.*
 
+
 #### Step 6: Open Your Project in an IDE
 
 Open your preferred IDE (eg Visual Studio Code) and navigate to the folder where your React app is installed. Enter the directory using:
 
 **cd your_app_name**
+
 
 #### Step 7: Start Your App
 
