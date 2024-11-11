@@ -46,7 +46,7 @@ Type the following to create a new folder for your React application:
 
 ``` bash
 mkdir newfolder
-``` bash
+```
 
 Change "newfolder" to the folder name you choose. Enter the folder by using:
 
