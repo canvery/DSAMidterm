@@ -23,8 +23,9 @@ Start by installing the Node.js installer for Windows. [Click here](https://node
 
 To ensure that Node.js is installed successfully, open the command line and type:
 
-**node -v**
-
+``` bash
+node -v
+```
 
 ### Step 3: Install Create React App
 
