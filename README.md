@@ -31,29 +31,36 @@ node -v
 
 Next, type the following command into the terminal:
 
-**npm install -g create-react-app**
-
+``` bash
+npm install -g create-react-app
+```
 The Create React App tool will be installed globally with this command. In order to confirm the installation, type:
 
-**create-react-app –version**
-
+``` bash
+create-react-app –version
+```
 
 ### Step 4: Create a new folder for your react app
 
 Type the following to create a new folder for your React application:
 
-**mkdir newfolder**
+``` bash
+mkdir newfolder
+``` bash
 
 Change "newfolder" to the folder name you choose. Enter the folder by using:
 
-**cd newfolder**
-
+``` bash
+cd newfolder
+```
 
 ### Step 5: Create a New React App
 
 Run the following command within the newly created folder:
 
-**create-react-app your_app_name**
+``` bash
+create-react-app your_app_name
+```
 
 *This will take some time as the necessary dependencies will be installed. Note: Due to npm naming restrictions, the app name must contain only lowercase letters.*
 
@@ -62,11 +69,14 @@ Run the following command within the newly created folder:
 
 Open your preferred IDE (eg Visual Studio Code) and navigate to the folder where your React app is installed. Enter the directory using:
 
-**cd your_app_name**
-
+``` bash
+cd your_app_name
+```
 
 ### Step 7: Start Your App
 
 Use the following command to launch your application:
 
-**npm start**
+``` bash
+npm start
+```
